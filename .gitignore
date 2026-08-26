@@ -1,0 +1,18 @@
+# Entornos virtuales
+venv/
+__pycache__/
+*.pyc
+ 
+# Modelos y datos pesados
+*.engine
+*.onnx
+*.pt
+*.mp4
+ 
+# Secretos
+.env
+credenciales.py
+ 
+# Windows
+Thumbs.db
+desktop.ini
